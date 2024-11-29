@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-28T22:11:39 GMT-08:00" name="Suite" finished-at="2024-11-28T22:12:15 GMT-08:00" duration-ms="35803">
+    <groups>
+    </groups>
+    <test started-at="2024-11-28T22:11:39 GMT-08:00" name="Test" finished-at="2024-11-28T22:12:15 GMT-08:00" duration-ms="35803">
+      <class name="testCases.TC_002_TestingSearchProduct">
+        <test-method is-config="true" signature="baseclass(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_TestingSearchProduct@5460cf3a]" started-at="2024-11-28T22:11:39 GMT-08:00" name="baseclass" finished-at="2024-11-28T22:11:46 GMT-08:00" duration-ms="6335" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[window]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseclass -->
+        <test-method signature="TesingMobile()[pri:0, instance:testCases.TC_002_TestingSearchProduct@5460cf3a]" started-at="2024-11-28T22:11:46 GMT-08:00" name="TesingMobile" finished-at="2024-11-28T22:12:06 GMT-08:00" duration-ms="19928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TesingMobile -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_TestingSearchProduct@5460cf3a]" started-at="2024-11-28T22:12:06 GMT-08:00" name="tearDown" finished-at="2024-11-28T22:12:06 GMT-08:00" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_TestingSearchProduct -->
+      <class name="testCases.TC_001_AmozanLogin">
+        <test-method is-config="true" signature="baseclass(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_AmozanLogin@65a15628]" started-at="2024-11-28T22:12:06 GMT-08:00" name="baseclass" finished-at="2024-11-28T22:12:11 GMT-08:00" duration-ms="5242" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[window]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseclass -->
+        <test-method signature="AccountLogin()[pri:0, instance:testCases.TC_001_AmozanLogin@65a15628]" started-at="2024-11-28T22:12:11 GMT-08:00" name="AccountLogin" finished-at="2024-11-28T22:12:15 GMT-08:00" duration-ms="3581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_AmozanLogin@65a15628]" started-at="2024-11-28T22:12:15 GMT-08:00" name="tearDown" finished-at="2024-11-28T22:12:15 GMT-08:00" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_AmozanLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
